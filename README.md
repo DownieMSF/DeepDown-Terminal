@@ -22,3 +22,14 @@
 
 7- Discord Connection:
    BEWARE! DeepD is connected through Discord and will be displayed as an activity on Discord!! (if it even works im too lazy to test it. works for me though)
+
+This is a Quick Tutorial on how to set up DeepDown Terminal. If you need contact me via discord "downiemsf".
+If you find bugs do NOT contact me since im too lazy to fix anything.
+If its working then im suprised. i didnt even test it to be honest. anyways enjoy
+-_-_                                    _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+      _                              _
+         _                        _
+            _                  _
+               _            _
+                  _      _
+                     _ 
